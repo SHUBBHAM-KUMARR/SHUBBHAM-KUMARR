@@ -39,24 +39,26 @@
 </p>
 
 ### 🧑‍💻 Languages
+### 🧑‍💻 Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 
 ---
-
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SHUBBHAM-KUMARR&show_icons=true&theme=radical" height="180" />
   
 
----
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHUBBHAM-KUMARR&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+
+
 
 ---
 
@@ -88,5 +90,5 @@
 ---
 
 <p align="center">
-  ✨ *“Keep learning, keep building.”*
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=let+us+learn_togehter;code+and+contribute;.+.+.+code+create+debug+repeat" alt="Typing SVG" />
 </p>
