@@ -36,9 +36,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SHUBBHAM-KUMARR&show_icons=true&theme=radical" height="180" />
   
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHUBBHAM-KUMARR&layout=compact&theme=radical" />
-</p>
 
 ---
 <p align="center">
