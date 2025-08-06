@@ -1,10 +1,10 @@
 <!-- GitHub Profile README for SHUBBHAM-KUMARR -->
 
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
-<h3 align="center">Frontend Developer | UI Designer | Lifelong Learner</h3>
+<h3 align="center">BCA'26|Late night code on terminal| Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Turning+ideas+into+products...;Frontend+Developer+in+the+making;Learning+JavaScript+everyday" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Turning+ideas+into+products...;Always+learning+new+way+to+code;fullstack+Developer+in+the+making;Learning+new+tech+stacks" alt="Typing SVG" />
 </p>
 
 ---
