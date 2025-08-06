@@ -41,6 +41,11 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHUBBHAM-KUMARR&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
 
 ## 📌 Featured Projects
 
