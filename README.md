@@ -51,25 +51,6 @@
 
 
 ---
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHUBBHAM-KUMARR&show_icons=true&theme=radical" height="180" />
-  
-
-
-
-
----
-
-## 📌 Featured Projects
-
-- 🔹 [Carousel](https://github.com/SHUBBHAM-KUMARR/Carousel) – Product carousel built with HTML
-- 🔹 [DOM_Project](https://github.com/SHUBBHAM-KUMARR/DOM_Project) – Exploring DOM with JavaScript
-- 🔹 [Myntra UI Clone](https://github.com/SHUBBHAM-KUMARR/Myntra_ui_clone) – Recreated Myntra frontend
-- 🔹 [Themed Calculator](https://github.com/SHUBBHAM-KUMARR/themed-calculator) – Calculator with theme switcher
-
----
 
 ## 🔗 Connect With Me
 
