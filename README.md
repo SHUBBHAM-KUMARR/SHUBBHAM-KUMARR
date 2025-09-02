@@ -3,9 +3,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 <h3 align="center">BCA'26|Late night code on terminal| Lifelong Learner</h3>
 
-
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/shubbham-kumarr?custom123)
-
 ---
 
 ## 🔥 About Me
