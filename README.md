@@ -4,7 +4,8 @@
 <h3 align="center">BCA'26|Late night code on terminal| Lifelong Learner</h3>
 
 
-![Profile views](https://komarev.com/ghpvc/?username=shubbham-kumarr?custom8888&color=blue&style=flat-square)
+![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/shubbham-kumarr?custom123
+)
 
 ---
 
