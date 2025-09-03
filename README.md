@@ -1,7 +1,8 @@
 <!-- GitHub Profile README for SHUBBHAM-KUMARR -->
 
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
-<h3 align="center">BCA'26|Late night code on terminal| Lifelong Learner</h3>
+<h3 align="center">BCA '26 | Walking the endless learning path of Computer Science</h3>
+
 
 ---
 
@@ -47,7 +48,16 @@
 
 
 ---
+<!--<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=SHUBBHAM-KUMARR&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SHUBBHAM-KUMARR&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+----->
 ## 🔗 Connect With Me
 
 <p align="left">
